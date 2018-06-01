@@ -6,6 +6,7 @@ function destructivelyAppendKitten(name){
   kittens.push(name)
 }
 
+//Add kitten at 1st index
 function destructivelyPrependKitten(name) {
   kittens.unshift(name)
 }
